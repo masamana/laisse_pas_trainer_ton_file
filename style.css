@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(149, 176, 232);
+    border-bottom: 2px solid black;
+}
+
+header h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.custom {
+    align-items: center;
+}
+.custom h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.container-img {
+    width: 100%;
+}
+
+.container-img img {
+    width: 100%;
+}
